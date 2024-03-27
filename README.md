@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou trabalhando com Suporte e Infraestrutura.
 - 👁️ Meu ponto focal atualmente são as linguagens Python e SQL.
-- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Eu amo correr e treinar.
 
 ##
