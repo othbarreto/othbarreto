@@ -1,7 +1,7 @@
 ### Olá pessoas, eu sou o Thiago Barreto.
 
 - 🔭 Atualmente estou trabalhando com Suporte e Infraestrutura.
-- 👁️ Meu ponto focal atualmente são as linguagens Python e SQL
+- 👁️ Meu ponto focal atualmente são as linguagens Java e SQL
 - ⚡ Curiosidade: Eu amo correr e treinar.
 
 ##
@@ -10,7 +10,7 @@
   <img align="center" alt="HTML-th" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="JavaScript-th" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Postgresql-th" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
-  <img align="center" alt="Figma-th" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Java-th" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 
   
 </div>
