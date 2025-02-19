@@ -1,8 +1,7 @@
 ### Olá pessoas, eu sou o Thiago Barreto.
 
 - 🔭 Atualmente estou trabalhando com Suporte e Infraestrutura.
-- 👁️ Meu ponto focal atualmente são as linguagens JavaScript e SQL
-- ⚡ Curiosidade: Eu amo correr e treinar.
+- 👁️ Meu ponto focal atualmente é o desenvolvimento de automações de processos com Python
 
 ##
 
